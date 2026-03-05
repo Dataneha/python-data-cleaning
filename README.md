@@ -11,6 +11,7 @@ This project demonstrates a simple data cleaning pipeline using Python and panda
 ## Technologies
 - Python
 - Pandas
+- Git & GitHub
 
 ## Output
 The cleaned dataset is saved as:
